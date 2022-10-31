@@ -1,6 +1,8 @@
 # CAKE PHP - FRAMEWORK
 
-![alt text](CAKEPHP.png)
+<p align="center">
+  <img src="CAKEPHP.png" />
+</p>
 
 
 **Data: 14/11/2022**
